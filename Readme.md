@@ -6,4 +6,6 @@ The main questions I had were the following:
 
 2) Are there specific categories of Digimon that are more adapted to the "magic-user" niche? If so do each of the Digimon occupy a different niche? 
 
-3) If so, how does this influence the strategy we use against them? 
+3) Does the stage of evolution act confound correlations between different variables? 
+
+4) If so, how does this influence the strategy we use against them? 
